@@ -1,8 +1,7 @@
-### Hi there, I'm Ahmed Osman 👋
-
-<p align="left"> 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3390FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ahmed+Osman;I'm+a+passionate+developer;Welcome+to+my+profile!" alt="Typing SVG" /></a>
   <img src="https://komarev.com/ghpvc/?username=aboosman745&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</div>
 
 ---
 
@@ -19,7 +18,7 @@
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs," />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,mongodb,git" />
   </a>
 </p>
 
