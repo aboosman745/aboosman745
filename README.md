@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **open source projects**.
 - 📫 How to reach me: 
   - **Email:** ahmedx1930100@gmail.com
-  - **Phone:** 01022491303
 - 😄 Fun fact: ...
 
 ---
